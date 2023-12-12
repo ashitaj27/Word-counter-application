@@ -1,0 +1,26 @@
+body{
+    padding: 0px 100px;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    background-color: #006780;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+#textbox{
+    width:99.3%;
+    border-color: #006780;
+    font-size: 15px;
+
+}
+p{
+    text-align: center;
+    background-color: #006780;
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    padding: 10px;
+    margin: 0px;
+}
